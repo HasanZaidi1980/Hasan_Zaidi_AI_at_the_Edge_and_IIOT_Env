@@ -11,9 +11,12 @@
 - L03: VS Code & Edge Impulse: Using professional IDEs to bridge high-level ML with hardware.
 - L04: IIoT Sensor Network: Protocol experimentation with MQTT, CoAP, and OPC UA.
 - L06: IIoT Data Analytics: Time-series forecasting using Nixtla AutoML and VAEs.
+- L07: IIoT Network Analysis: Age of Information and Reliability Trade-offs Assignment instructions
+- Capstone Project: Autonomous Agents and Generative AI for Edge and IIoT Systems
 
 #### Assignments
 - A01: Edge AI Environments: Research on the Edge AI paradigm and foundational tools.
 - A03: Smart City Case Study: Analysis of video analytics for pedestrian and vehicle monitoring.
 - A04: Reflective Journal: Personal insights into networking protocols and troubleshooting.
-- A06: Nixtla & Generative AI: Advanced forecasting and synthetic data augmentation. l;'p
+- A06: Nixtla & Generative AI: Advanced forecasting and synthetic data augmentation.
+- A09: Individual Case Study Analysis on Autonomous Agents in Industry 4.0
